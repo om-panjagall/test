@@ -17,4 +17,4 @@ Jenkins installation in server
 6. Install Jenkins follow the below link
 	https://www.jenkins.io/download/	
 	
-	For reference https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
+	For reference https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/ 
